@@ -13,7 +13,8 @@ http://<YOUR_PROJECT_ID>.appspot.com/forward?callerid=CALLER-ID
 
 That's it, it should work.
 
-If you do not wish to to host this script on your own account, you can use my hosted script. However I do not garantee its availability and the stability.
+## Use the hosted TwiML script.
+If you do not wish to to host this script on your own account, you can use my hosted script. However I do not garantee its availability and its stability.
 ```
 https://twilio-1380.appspot.com/forward?callerid=CALLER-ID
 ```
