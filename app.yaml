@@ -1,0 +1,9 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /forward
+  script: forward.php
+  
+- url: /cron
+  script: cron.php
